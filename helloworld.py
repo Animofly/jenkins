@@ -1,3 +1,4 @@
+print("Auto-build test")
 
 print("Hello world")
 
